@@ -1,0 +1,10 @@
+# installing necessary packages in my_env
+gradio
+langchain
+langchain-community
+langchain-text-splitters
+langchain-ollama
+ollama
+chromadb
+pypdf
+pydantic
